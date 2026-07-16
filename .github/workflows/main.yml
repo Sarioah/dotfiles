@@ -1,3 +1,5 @@
+name: Deploy install script fron .dotfiles
+
 on:
   workflow_dispatch:
 
