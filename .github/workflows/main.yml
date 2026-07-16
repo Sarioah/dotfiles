@@ -1,4 +1,4 @@
-name: Deploy install script fron .dotfiles
+name: Deploy install script from .dotfiles
 
 on:
   workflow_dispatch:
